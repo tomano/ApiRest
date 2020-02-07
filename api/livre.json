@@ -1,0 +1,13 @@
+[
+    { 
+        "numero":10,
+        "titre": "le rouge et le noir",
+        "pages": ["La petite ville de Verrières peut passer pour l’une des plus jolies", "Ses maisons blanches s’étendent sur la pente d’une colline"]
+    },
+    { 
+        "numero":11,
+        "titre": "candide ou l'optimisme",
+        "pages": ["Comment Candide fut élevé dans un château, et comment il fut chassé d’icelui.",
+         "Ce que devint Candide parmi les Bulgares"]
+    }
+]
